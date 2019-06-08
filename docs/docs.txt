@@ -1,0 +1,1 @@
+This is to create a docs folder to start working with GitHub Pages for DevOps for Defense meetup.
