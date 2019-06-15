@@ -1,27 +1,40 @@
+---
+layout: null
+title: DevOps for Defense
+description: Open community for DevOps professional development in Huntsville, AL.
+sitemap:
+    priority: 1.0
+    lastmod: 2019-06-014
+    changefreq: weekly
+---
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>DevOps for Defense</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    {% include head.html %}
+
+
 	</head>
-	<body class="is-preload">
+	<body class="is-loading">
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Welcome to<br />
-						DevOps for Defense</h1>
-						<p>A public community to foster Agile / DevOps professional development, culture, technology, and innovation within the defense industry.</p>
+            <h1>{{site.title}}</h1>
+						<h2>Huntsville Meetup for Technical Professionals</h2>
+						<p>
+							DevOps for Defense is a public forum where technical professionals can learn, share, and create relationships as many of us 
+							make the challenging transition from legacy waterfall development to Agile/DevOps continuous delivery practices within large 
+							complex government programs.  DevOps for Defense is committed to transparency and posts all our material to 
+							GitHub under open source licenses.
+						</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -29,35 +42,27 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">DevOps for Defense</a>
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">Main</a></li>
-							<li><a href="presentations.html">Presentations</a></li>
-							<li><a href="agile_deep_dive.html">Agile Deep Dive</a></li>
-							<li><a href="software_factory.html">Software Factory</a></li>
-							<li><a href="resources.html">Resources</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="https://www.meetup.com/DevOps-for-Defense/" class="icon brands fa-meetup"><span class="label">Meetup</span></a></li>
-							<li><a href="https://twitter.com/devops4defense" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="https://github.com/jondavid-black/DevOpsForDefense" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-						</ul>
+
+            {% include nav.html %}
+
 					</nav>
 
 				<!-- Main -->
 					<div id="main">
-
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">DevOps for Defense Meetup</a></h2>
-									<p>DevOps Community for Technical Professionals</p>
+									<h2><a href="#">Huntsville's DevOps Meetup</a></h2>
+									<p>
+										Meet technical professionals with a passion for improving how we develop and deliver large, complex systems.  
+									</p>
 								</header>
-								<a href="#" class="image main"><img src="images/Dec_Stack_Overflow.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/Dec_Stack_Overflow.jpg" | absolute_url }}" alt="" /></a>
 								<p>DevOps for Defense is a public forum where technical professionals can learn, share, and create relationships as many of us make the challenging
 										transition from legacy waterfall development to Agile/DevOps continuous delivery practices.  We are based in Huntsville, AL where Redstone Arsenal plays
 										a major role in the local community. Many of us work for or with government agencies and services to produce systems that defend our
@@ -70,7 +75,8 @@
 									around 70 when <a href="https://stackoverflow.com/">StackOverflow</a> provided a talk on the 
 									<a href="https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2018/2018-12%20DO4D%20-%20Stack%20Overflow.pdf">Power of Knowledge</a>.  
 									We've had great support from the local community.  Everything we do is on a pure voluntary basis.  
-									We've been fortunate to have a number of excellent volunteer guest speakers along the way.  Starting in 2019, 
+									We've been fortunate to have a number of excellent volunteer guest speakers along the way.  If you would like to present 
+									at our monthly meetup please contact the meetup organizers via e-mail or through social media.  Starting in 2019, 
 									TEKsystems is sponsoring our meetup and provides books for our book club, swag, and public outreach / awareness in the community.
 								</p>
 								<p>
@@ -116,96 +122,49 @@
 
 						<!-- Posts -->
 							<section class="posts">
-								<article>
-									<header>
-										<span class="date">June 8, 2019</span>
-										<h2>The new site is live!</h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/DevOpsWebSite.png" alt="" /></a>
-									<p>Welcome to the new DevOps for Defene web site.  We hope you find it useful and welcome any
-										any feedback from the community to improve.  Over time, we'll evolve this site to give you easy access to
-										information, announcements, presentations, and DevOps resources.
-									</p>
-								</article>
-								<article>
-									<header>
-										<span class="date">June 8, 2019</span>
-										<h2>Meetup Announcement!</h2>
-									</header>
-									<a href="https://www.meetup.com/DevOps-for-Defense/events/bmpdhpyzkbgb/" class="image fit"><img src="images/Fireworks-still-a-fizzle.jpg" alt="" /></a>
-									<p>The first Thursday of next month is the 4th of July, so we'll move our meetup out one week to July 11th.  Enjoy
-										your holiday with friends and family.  Go party like it's 1776!!!
-									</p>
-								</article>
+				{% assign frontposts = site.posts | where_exp:"p", "p.category != 'resource'" %}
+                {% for post in frontposts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
 							</section>
 
 						<!-- Footer -->
-							<!-- <footer>
-								<div class="pagination">
-									<!--<a href="#" class="previous">Prev</a>- ->
-									<a href="#" class="page active">1</a>
-									<a href="#" class="page">2</a>
-									<a href="#" class="page">3</a>
-									<span class="extra">&hellip;</span>
-									<a href="#" class="page">8</a>
-									<a href="#" class="page">9</a>
-									<a href="#" class="page">10</a>
-									<a href="#" class="next">Next</a>
-								</div>
-							</footer> -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                </ul>
+							</footer>
 
 					</div>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<section class="split contact">
-							<section class="alt">
-								<h3>Where</h3>
-								<p>Hosted by <a href="http://www.rocketrepublicbrewing.com/tap-room/">Rocket Republic Brewing Company</a><br/>
-								<a href="https://www.google.com/maps/search/?api=1&query=34.672780%2C-86.774010">289 Production Ave<br/>
-								Madison, AL 35758</p></a>
-							</section>
-							<section>
-								<h3>When</h3>
-								<p>1st Thursday of every month</br>
-								Check meetup.com for updates</p>
-							</section>
-						</section>
-						<section class="split contact">
-							<section>
-								<h3>Contact</h3>
-								<p><a href="mailto:devopsfordefense@gmail.com">devopsfordefense@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-										<li><a href="https://www.meetup.com/DevOps-for-Defense/" class="icon brands fa-meetup"><span class="label">Meetup</span></a></li>
-										<li><a href="https://twitter.com/devops4defense" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="https://github.com/jondavid-black/DevOpsForDefense" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-							<section>
-									<h3>Sponsor</h3>
-									<p><a href="https://www.teksystems.com/en"><img src="images/teksystemslogo.png"></a></p>
-								</section>
-						</section>
-					</footer>
-
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Jondavid Black</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+        {% include foot.html %}
 
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+		{% include scripts-main.html %}
+    {% include tracking.html %}
 
 	</body>
 </html>

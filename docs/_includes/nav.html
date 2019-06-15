@@ -1,0 +1,14 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/agile_deep_dive/' %} active {% endif %}"><a href="{{ "/agile_deep_dive/" | absolute_url }}">Agile Deep Dive</a></li>
+  <li class="{% if page.url contains '/sw_factory/' %} active {% endif %}"><a href="{{ "/sw_factory/" | absolute_url }}">Software Factory</a></li>
+  <li class="{% if page.url contains '/resources/' %} active {% endif %}"><a href="{{ "/resources/" | absolute_url }}">Resources</a></li>
+</ul>
+
+<ul class="icons">
+  <li><a href="https://meetup.com/{{site.meetup}}" class="icon brands fa-meetup" rel="nofollow"><span class="label">Meetup</span></a></li>
+  <li><a href="https://github.com/{{site.github}}" class="icon brands fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+  <li><a href="https://twitter.com/{{site.twitter}}" class="icon brands fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+  <li><a href="mailto:{{site.email}}" class="icon fa-envelope" rel="nofollow"><span class="label">E-mail</span></a></li>
+</ul>
