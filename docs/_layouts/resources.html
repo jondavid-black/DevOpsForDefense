@@ -34,37 +34,62 @@
           <article class="post featured">
             <header class="major">
               <h2><a href="#">DevOps for Defense Resources</a></h2>
-              <p>Our blog provides you all the latest announcements and content from our meetup.</p>
+              <p>This is a collection of resources we have found useful.  We hope they are useful to you as well.</p>
             </header>
-						<p>
-							Generally you will find two kinds of posts here.  First is announcements.  Sometimes we have to make adjustments to the meetup 
-							(i.e. scheduling changes) or want to get the word out about relevant events in the community (i.e. conferences).  When these
-							pop up, we'll post a short blog entry here so check back in regularly.  Second is content posts.  After we collect and post material
-							from the meetup, we'll include a post with a short summary and a link to the published material.  
-						<p>
-          </article>
-					<!-- Post -->
+						
+		  </article>
+					 <!-- Videos -->
+					<h2>Videos</h2>
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2></h2>
-								</header>
+							{% if post.category == "resource" %}
+								{% if post.restype == "video" %}
+									<article>
+										<header>
+											<span class="date">{{ post.date | date_to_string }}</span>
+											<h2>{{ post.title }}</h2>
+										</header>
+										<p><center>{{ post.content }}</center></p>
+									</article>
+								{% endif %}
+							{% endif %}
+						{% endfor %}
 
-							</article>
+					</section>
+
+					<!-- Books -->
+					<h2>Books</h2>
+					<section class="posts">
+						{% for post in site.posts %}
+							{% if post.category == "resource" %}
+								{% if post.restype == "book" %}
+									<article>
+										<header>
+											<span class="date">{{ post.date | date_to_string }}</span>
+											<h2>{{ post.title }}</h2>
+										</header>
+										<p><center>{{ post.content }}</center></p>
+									</article>
+								{% endif %}
+							{% endif %}
+						{% endfor %}
+
+					</section>
+
+					<!-- Web -->
+					<h2>Web</h2>
+					<section class="posts">
+						{% for post in site.posts %}
+							{% if post.category == "resource" %}
+								{% if post.restype == "web" %}
+									<article>
+										<header>
+											<span class="date">{{ post.date | date_to_string }}</span>
+											<h2>{{ post.title }}</h2>
+										</header>
+										<p><center>{{ post.content }}</center></p>
+									</article>
+								{% endif %}
 							{% endif %}
 						{% endfor %}
 

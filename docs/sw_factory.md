@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2019-06-14
     changefreq: monthly
 ---
-## Agile Deep Dive
+## Software Factory
 
 <span class="image fit"><img src="{{ "/images/assembly_line.jpg" | absolute_url }}" alt="" /></span>
 
