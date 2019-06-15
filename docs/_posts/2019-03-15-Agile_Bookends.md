@@ -6,6 +6,8 @@ excerpt: "Refinement & Retrospective"
 image: "/images/AgileBookends.jpg"
 category: presentation
 permalink: "2019/Mar"
+series: "agile-deep-dive"
+series-rank: 5
 ---
 
 ## Agile Bookends - Refinement & Retrospective

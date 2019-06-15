@@ -6,6 +6,8 @@ excerpt: "The art of maximizing the amount of work not done."
 image: "/images/zen_stones.jpg"
 category: presentation
 permalink: "2018/Aug"
+series: "agile-deep-dive"
+series-rank: 2
 ---
 
 ## Simplicity

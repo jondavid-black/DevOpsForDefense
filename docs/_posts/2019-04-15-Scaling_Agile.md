@@ -6,6 +6,8 @@ excerpt: "Applying agile to our large programs."
 image: "/images/Scaling_Agile.jpg"
 category: presentation
 permalink: "2019/Apr"
+series: "agile-deep-dive"
+series-rank: 6
 ---
 
 ## Scaling Agile

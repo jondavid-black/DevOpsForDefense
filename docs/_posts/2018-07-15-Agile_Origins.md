@@ -6,6 +6,8 @@ excerpt: "How it all began!"
 image: "/images/agile-17-authors.png"
 category: presentation
 permalink: "2018/July"
+series: "agile-deep-dive"
+series-rank: 1
 ---
 
 ## Agile Origins
