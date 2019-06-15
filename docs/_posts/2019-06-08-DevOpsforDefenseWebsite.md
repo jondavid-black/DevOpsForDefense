@@ -4,6 +4,7 @@ title:  "The new site is live!"
 date:   2019-06-08
 excerpt: "DevOps for Defense now has an open source site & blog for our community."
 image: "/images/DevOpsWebSite.png"
+category: announcements
 ---
 
 ## DevOps for Defense at Your Fingertips
@@ -32,3 +33,6 @@ Our committent to open source doesn't stop with posting presentations to GitHub.
 served up using GitHub Pages.  This site is generated using Jekyll, so contributing your own post may be as simple
 as drafting up a short markdown file. If you'd like contribute, you can submit your posts or site
 improvements through a pull request.
+
+#### Attribution
+Image (screen capture) by Jondavid Black, published under MIT Open Source license on GitHub.
