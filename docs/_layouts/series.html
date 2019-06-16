@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 				</header>
 
 
@@ -36,12 +36,12 @@
               <h2><a href="#">{{ page.title }}</a></h2>
               <p>{{ page.description }}</p>
 			</header>
-			<a href="#" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
+			<a href="#" class="image fit"><img src="{{ page.image | relative_url }}" alt="" /></a>
 						<p>
 							{{content}}
 						</p>
 						<p><h4>Image Attribution</h4>
-						<a href="{{ page.image-attrib-url | absolute_url }}">{{ page.image-attrib }}</a>
+						<a href="{{ page.image-attrib-url | relative_url }}">{{ page.image-attrib }}</a>
 						</p>
 
           </article>
@@ -53,12 +53,12 @@
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ post.url | relative_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
 						{% endfor %}

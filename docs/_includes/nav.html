@@ -1,9 +1,9 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/agile_deep_dive/' %} active {% endif %}"><a href="{{ "/agile_deep_dive/" | absolute_url }}">Agile Deep Dive</a></li>
-  <li class="{% if page.url contains '/sw_factory/' %} active {% endif %}"><a href="{{ "/sw_factory/" | absolute_url }}">Software Factory</a></li>
-  <li class="{% if page.url contains '/resources/' %} active {% endif %}"><a href="{{ "/resources/" | absolute_url }}">Resources</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | relative_url }}">Home</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | relative_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/agile_deep_dive/' %} active {% endif %}"><a href="{{ "/agile_deep_dive/" | relative_url }}">Agile Deep Dive</a></li>
+  <li class="{% if page.url contains '/sw_factory/' %} active {% endif %}"><a href="{{ "/sw_factory/" | relative_url }}">Software Factory</a></li>
+  <li class="{% if page.url contains '/resources/' %} active {% endif %}"><a href="{{ "/resources/" | relative_url }}">Resources</a></li>
 </ul>
 
 <ul class="icons">

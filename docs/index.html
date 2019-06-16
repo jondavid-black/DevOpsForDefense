@@ -42,7 +42,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -62,7 +62,7 @@ sitemap:
 										Meet technical professionals with a passion for improving how we develop and deliver large, complex systems.  
 									</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/Dec_Stack_Overflow.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/Dec_Stack_Overflow.jpg" | relative_url }}" alt="" /></a>
 								<p>DevOps for Defense is a public forum where technical professionals can learn, share, and create relationships as many of us make the challenging
 										transition from legacy waterfall development to Agile/DevOps continuous delivery practices.  We are based in Huntsville, AL where Redstone Arsenal plays
 										a major role in the local community. Many of us work for or with government agencies and services to produce systems that defend our
@@ -128,12 +128,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url | relative_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
                   {% if mod3 == 0 %}
@@ -151,7 +151,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                  <li><a href="{{ "/blog/" | relative_url }}" class="button">Our Blog</a></li>
                 </ul>
 							</footer>
 
