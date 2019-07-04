@@ -3,7 +3,7 @@ layout: post
 title:  "Agile Origins"
 date:   2018-07-15
 excerpt: "How it all began!"
-image: "/images/agile-17-authors.png"
+image: "/images/agile-17-authors.jpg"
 category: presentation
 permalink: "2018/July"
 series: "agile-deep-dive"
