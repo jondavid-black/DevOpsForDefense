@@ -12,7 +12,7 @@ series-rank: 5
 
 ## Software Factory - Introduction
 
-The concept of a Software Factory is making it's way into our customer's vocabulary and contracts...so what is this and what does it mean for us.  In this talk we provide a high level overview of the Software Factory concept and we discuss some fundamentals of how to design and build your software factory.  We also introduce our Micro-SW-Factory design and demonstrate how to CM and automate simple base OS configuration.  The demo content (minus OS images and sensitive infomation like wifi passwords) i available on our [SW Factory](https://github.com/jondavid-black/SW_Factory) GitHub repository.
+The concept of a Software Factory is making it's way into our customer's vocabulary and contracts...so what is this and what does it mean for us.  In this talk we provide a high level overview of the Software Factory concept and we discuss some fundamentals of how to design and build your software factory.  We also introduce our Micro-SW-Factory design and demonstrate how to CM and automate simple base OS configuration.  The demo content (minus OS images and sensitive infomation like wifi passwords) is available on our [SW Factory](https://github.com/jondavid-black/SW_Factory) GitHub repository.
 									
 
 <div class="box" markdown="1">
