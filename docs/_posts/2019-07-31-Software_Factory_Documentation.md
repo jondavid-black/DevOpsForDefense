@@ -3,7 +3,7 @@ layout: post
 title:  "Software Factory - Documentation"
 date:   2019-07-31
 excerpt: "We write as much (or more) documentation than SW.  How can we manage and deliver documentation using our SW Factory?"
-image: "/images/Document_Pipeline.jpg"
+image: "/images/Document_Pipeline.gif"
 category: presentation
 permalink: "2019/August"
 series: "sw-factory"
