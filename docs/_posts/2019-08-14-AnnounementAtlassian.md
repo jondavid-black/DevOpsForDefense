@@ -8,7 +8,7 @@ category: announcements
 ---
 
 ## Streamline your Agile Team
-Atlassian is a leading provider of tools such as Jira, Bitbucket, Bamboo, Confluence, Jira Service Desk, and now Jira Align.  Many teams in our domain use these tools to plan and track their execution, collaborate with their peers, and deliver their systems.  Come out and meet the experts on how to use and integrate the Atlassian suite to help your team or program drive success.  There should be some swag and food as well!
+Atlassian is a leading provider of tools to help your Agile teams run like clockwork.  The Atlassian suite includes tools like Jira, Bitbucket, Bamboo, Confluence, Jira Service Desk, and now Jira Align.  Many teams in our domain use these tools to plan and track their execution, collaborate with their peers, and deliver their systems.  Come out to meet the experts and learn how to use, integrate, and scale the Atlassian suite to help your team or program drive success.  There should be some swag and food as well!
 
 <div class="box" markdown="1">
 Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2019/Atlassian%20Flyer%20Sept%202019%20v2.pdf) around your office.
