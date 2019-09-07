@@ -5,7 +5,8 @@ date:   2019-09-07
 excerpt: "Atlassian Solutions to Help Agile / DevOps teams."
 image: "/images/TrundlAtlassianPresentation.jpg"
 category: presentation
-permalink: "2019/July"
+series: "agile-deep-dive"
+permalink: "2019/September"
 ---
 
 ## Help Your Team Deliver More with Atlassian Tools
