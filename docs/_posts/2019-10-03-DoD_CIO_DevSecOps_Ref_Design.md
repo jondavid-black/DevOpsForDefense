@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "DoD CIO DevSecOps Reference Design"
-date:   2019-09-07
+date:   2019-10-03
 excerpt: "Review DoD CIO guidance on DevSecOps"
 image: "/images/DoD_DevSecOps.png"
 category: presentation
-series: "sw-factory"
 permalink: "2019/October"
+series: "sw-factory"
+series-rank: 5
 ---
 
 ## Review and discuss the DoD CIO's DevSecOps Reference Design
