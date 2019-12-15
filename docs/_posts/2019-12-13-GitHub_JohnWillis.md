@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitHub & John Willis"
-date:   2019-11-07
+date:   2019-12-05
 excerpt: "Celebrating 2 Years of DevOps for Defense with GitHub and John Willis"
 image: "/images/Dec2019.jpg"
 category: presentation
