@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gradle"
-date:   2019-11-17
+date:   2020-01-18
 excerpt: "Advanced Automation & Insight"
 image: "/images/Gradle_Flyer.png"
 category: announcements
