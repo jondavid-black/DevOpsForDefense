@@ -27,10 +27,9 @@ For more info check out the following:
 - Gradle Enterprise - [https://gradle.com/](https://gradle.com/)
 
 <div class="box" markdown="1">
-If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://youtu.be/6Yu5f6cUBfw) channel. 
+If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
 
-<iframe width="560" height="315" src="https://youtu.be/ZFUakpb5SOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFUakpb5SOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="box" markdown="1">
 Charts from the meetup are posted as open source to our [GitHub](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2020/2020-03%20DO4D%20-%20Gradle.pdf) repository. 
