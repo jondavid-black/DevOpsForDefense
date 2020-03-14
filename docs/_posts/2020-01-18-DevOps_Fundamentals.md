@@ -15,7 +15,7 @@ series-rank: 6
 <div class="image main"><img src="/images/Waterfall_Agile_DevOps_Battle.png" alt="Software Lifecycle Battle - Image customized by JD Black"></div>
 At the request from our community, we take a step back and look at the foundational principles of DevOps.  This month we provide an overview of the 3 Ways of DevOps:  Systems Thinking & Flow, Feedback, and Continuous Learning & Experimentation.  We also briefly review the origins of Agile and DevOps, highlighting that our focus should be using these principles to deliver customer value above all.  Agile & DevOps alone are not our goals.  Rather, Agile & DevOps provide us with the tools and techniques to deliver more value to our customers and their mission critical needs.
 <div class="box" markdown="1">
-If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://youtu.be/6Yu5f6cUBfw) channel. 
+If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oE80j0jiyE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

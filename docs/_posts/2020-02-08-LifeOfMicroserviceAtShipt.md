@@ -19,7 +19,7 @@ This month we welcomed Vadim Uchitel to present.  Vadim is a member of our local
 The meetup organizers would like to thank Vadim for volunteering to contribute and allowing us to publish his content as open source for our cummunity.  Vadim has been a valuable member of our meetup for months.  Be sure to meet him at future meetups and share your thanks.  I also recommend finding him at a lean coffee table and learning from his experiences.
 
 <div class="box" markdown="1">
-If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://youtu.be/6Yu5f6cUBfw) channel. 
+If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s67BkFIbdIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
