@@ -19,7 +19,7 @@ This month we welcomed Vadim Uchitel to present.  Vadim is a member of our local
 The meetup organizers would like to thank Vadim for volunteering to contribute and allowing us to publish his content as open source for our cummunity.  Vadim has been a valuable member of our meetup for months.  Be sure to meet him at future meetups and share your thanks.  I also recommend finding him at a lean coffee table and learning from his experiences.
 
 <div class="box" markdown="1">
-If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
+If you can't make it to our meetup, remember to subscribe to the DevOps for Defense [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s67BkFIbdIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -28,7 +28,7 @@ If you can't make it to our meetup, remember to subscribe to the DevOps for Defe
 Charts from the meetup are posted as open source to our [GitHub](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2020/2020-02%20DO4D%20-%20Life%20of%20a%20Microservice%20at%20Shipt.pdf) repository. 
 </div>
 
-## Support the DevOps for Defene Meetup
+## Support the DevOps for Defense Meetup
 
 We have setup [GitHub Sponsors](https://github.com/jondavid-black) for our meetup.  If you get value from what we do in the community, please consider supporting us at any level you are comfortable with.  Our sponsor, [TEK Systems](https://www.teksystems.com/en), has been extremely generous in their support and our organizers continue to contribute both financially and by volunteering their time.  GitHub Sponsors provides a simple way for your to provide your support as well with the benefit of matching funds from GitHub and their parent company Microsoft.  Everything we do for DevOps for Defense is 100% open source and volunteer based. If you'd like to volunteer to help organize or present a topic to our community please contact us at devopsfordefense@gmail.com. Consider helping us continue to grow and bring new events to our community. 
 
