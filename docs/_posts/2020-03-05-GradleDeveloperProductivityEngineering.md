@@ -3,7 +3,7 @@ layout: post
 title:  "Continuous ATO with Dark Wolf SOlutions"
 date:   2020-08-04
 excerpt: "Authors of the USAF Continuous ATO Playbook present - Fast Track and Continuous ATO"
-image: "/images/DarkWolfSolutions.png"
+image: "/images/DarkWolfSolutions.PNG"
 category: presentation
 series: ""
 permalink: "2020/August"
