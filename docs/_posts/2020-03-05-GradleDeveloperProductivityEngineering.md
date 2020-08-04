@@ -21,11 +21,9 @@ For more info check out the following:
 
 
 ### Virtual Meetup
-### Virtual Meetup
 Due to COVID-19 we are transitioning for a virtual format for the time being.  Please join us via Zoom at 6:00 Central Time on Thursday, 8/4/2020 using the information below.
 
-Join Zoom Meeting
-https://us02web.zoom.us/j/85758325983?pwd=bmU2OUNhZ210TkRLY0gvUlhsaS9OQT09
+[Join Zoom Meeting](https://us02web.zoom.us/j/85758325983?pwd=bmU2OUNhZ210TkRLY0gvUlhsaS9OQT09)
 
 Meeting ID: 857 5832 5983
 Passcode: 147879
@@ -42,7 +40,8 @@ Dial by your location
         +1 669 900 6833 US (San Jose)
 Meeting ID: 857 5832 5983
 Passcode: 147879
-Find your local number: https://us02web.zoom.us/u/kdfWuDecFN
+[Find your local number](https://us02web.zoom.us/u/kdfWuDecFN)
+[Find your local number](https://us02web.zoom.us/u/kdfWuDecFN)
 
 
 <div class="box" markdown="1">
