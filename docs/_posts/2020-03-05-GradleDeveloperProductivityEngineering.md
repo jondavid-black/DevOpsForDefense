@@ -20,7 +20,8 @@ For more info check out the following:
 - [DoD Enterprise DevSecOps Initiative](https://software.af.mil/dsop/)
 
 
-# Virtual Meetup
+### Virtual Meetup
+### Virtual Meetup
 Due to COVID-19 we are transitioning for a virtual format for the time being.  Please join us via Zoom at 6:00 Central Time on Thursday, 8/4/2020 using the information below.
 
 Join Zoom Meeting
