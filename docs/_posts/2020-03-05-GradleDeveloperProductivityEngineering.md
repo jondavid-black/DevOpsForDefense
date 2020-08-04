@@ -26,4 +26,4 @@ If you can't make it to our meetup, remember to subscribe to the DevOps for Defe
 
 #### Attribution
 
-Images from public sources and updated by JD Black.
+Images from Dark Wolf Solutions.
