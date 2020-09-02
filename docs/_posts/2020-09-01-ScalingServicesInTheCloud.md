@@ -17,28 +17,28 @@ This month our local member Vadim Uchitel returns as a guest speaker to our virt
 <div class="box" markdown="1">
 DevOps for Defense is inviting you to a scheduled Zoom meeting.
 
-Topic: DevOps for Defense - Scaling - Sept 2020
-Time: Sep 3, 2020 06:00 PM Central Time (US and Canada)
+    Topic: DevOps for Defense - Scaling - Sept 2020
+    Time: Sep 3, 2020 06:00 PM Central Time (US and Canada)
 
-Join Zoom Meeting
-https://us02web.zoom.us/j/82620035749?pwd=RUNqTis0TG00YVRva0daVWN1R0JEdz09
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/82620035749?pwd=RUNqTis0TG00YVRva0daVWN1R0JEdz09
 
-Meeting ID: 826 2003 5749
-Passcode: 256256
-One tap mobile
-+19292056099,,82620035749#,,,,,,0#,,256256# US (New York)
-+13017158592,,82620035749#,,,,,,0#,,256256# US (Germantown)
+    Meeting ID: 826 2003 5749
+    Passcode: 256256
+    One tap mobile
+    +19292056099,,82620035749#,,,,,,0#,,256256# US (New York)
+    +13017158592,,82620035749#,,,,,,0#,,256256# US (Germantown)
 
-Dial by your location
-        +1 929 205 6099 US (New York)
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 669 900 6833 US (San Jose)
-        +1 253 215 8782 US (Tacoma)
-        +1 346 248 7799 US (Houston)
-Meeting ID: 826 2003 5749
-Passcode: 256256
-Find your local number: https://us02web.zoom.us/u/kbpXQuhqNo
+    Dial by your location
+            +1 929 205 6099 US (New York)
+            +1 301 715 8592 US (Germantown)
+            +1 312 626 6799 US (Chicago)
+            +1 669 900 6833 US (San Jose)
+            +1 253 215 8782 US (Tacoma)
+            +1 346 248 7799 US (Houston)
+    Meeting ID: 826 2003 5749
+    Passcode: 256256
+    Find your local number: https://us02web.zoom.us/u/kbpXQuhqNo
 </div>
 
 <div class="box" markdown="1">
