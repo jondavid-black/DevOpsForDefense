@@ -18,6 +18,10 @@ I encourage everyone to find a copy of the recent white paper "Into the Matrix" 
 
 Thanks to everyone who joined us for the virtual meetup this month.  I'm considering a move to a hybrid format in future months depending on how the COVID situation evolves.  The safety of our community remains the #1 priority, so nobody will be asked or expected to do anything that makes them uncomfortable.  If we can make it work, I'd like to keep the hybrid format for the long term to allow participation by our friends from across the country.  E-mail me if you have a preference or ideas on how we can proceed and improve!
 
+<div class="box" markdown="1">
+This month's [DevOps Economics presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2020/2020-10%20DO4D%20-%20DevOps%20Economics.pdf) is posted as open source to our GitHub repository. 
+</div>
+
 
 <div class="box" markdown="1">
 If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
