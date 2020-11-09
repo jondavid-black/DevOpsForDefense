@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "November Meetup - Digital Transformation"
-date:   2020-11-03
+title:  "Digital Transformation"
+date:   2020-11-08
 excerpt: "What is Digital Transformation and how does it apply to us?"
 image: "/images/digital_transformation.jpg"
-category: announcements
+permalink: "2020/November"
+series-rank: 6
 ---
 
 ## Digital Transformation
