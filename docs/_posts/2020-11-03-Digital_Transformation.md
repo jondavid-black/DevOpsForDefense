@@ -13,7 +13,7 @@ This month we examine and unpack Digital Transformation.  Digital Transformation
 Thanks to everyone who joined for another virtual meetup as we all try to safely navigate the COVID-19 pandemic.  Your contributions and discussion are always appreciated and add to the value of the meetup.  Please keep yourself, your family, and your team safe and healthy.
 
 <div class="box" markdown="1">
-This month's [Digital Transformation presentation]() is posted as open source to our GitHub repository. 
+This month's [Digital Transformation presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2020/2020-11%20DO4D%20-%20Digital%20Transformation.pdf) is posted as open source to our GitHub repository. 
 </div>
 
 
