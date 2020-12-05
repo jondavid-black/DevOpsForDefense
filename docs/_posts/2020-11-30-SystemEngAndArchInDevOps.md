@@ -30,7 +30,7 @@ The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blo
 
 </div>
 
-Thanks to everyone who joined us on the Zoom to celebrate our 3 year anniversary.  I hope everyone has a safe and happy holiday season!  I also looking forward to getting back to in-person events in 2021 as soon as possible.
+Thanks to everyone who joined us on the Zoom to celebrate our 3 year anniversary.  I hope everyone has a safe and happy holiday season!  I'm also looking forward to getting back to in-person events in 2021 as soon as possible.
 
 
 <div class="box" markdown="1">
