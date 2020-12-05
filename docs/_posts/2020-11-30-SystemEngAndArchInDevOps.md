@@ -22,7 +22,7 @@ This month, after over a year of working through the process to release open sou
 <div class="box" markdown="1">
 The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2020/2020-12%20DO4D%20-%20DevOps%20for%20System%20Engineering%20%26%20Architecture.pdf) is posted as open source to our GitHub repository.
 
-![Jellyfish](/images/Jellyfish.JPG =250x)
+![Jellyfish](/images/Jellyfish.JPG)
 
 [Jellyfish: Architecture-as-Code](https://github.com/NorthropGrumman/jellyfish) is now publically available on GitHub.  If you have any questions or need support, just create an issue.
 
