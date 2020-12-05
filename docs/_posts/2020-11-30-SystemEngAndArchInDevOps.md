@@ -36,7 +36,7 @@ Thanks to everyone who joined us on the Zoom to celebrate our 3 year anniversary
 <div class="box" markdown="1">
 If you can't make it to our meetup, remember to subscribe to the DevOps for Defene [YouTube](https://www.youtube.com/channel/UCvECCp5P_Oo82ZPN5uRifpA) channel. 
 
-<iframe width="560" height="315" src="https://youtu.be/MNLwWzd-TT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNLwWzd-TT4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </div>
