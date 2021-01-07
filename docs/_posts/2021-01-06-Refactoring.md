@@ -37,4 +37,6 @@ This month we welcome a new year of DevOps for Defense and a guest speaker from 
     Passcode: 921445
     Find your local number: https://us02web.zoom.us/u/kwh3zrwlY
 
+#### Attribution
 
+Image from Lynda.com
