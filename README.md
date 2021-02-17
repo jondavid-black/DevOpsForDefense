@@ -13,4 +13,4 @@ Be sure to thank Rocket Republic Brewing Company for hosting our monthly event.
 If you'd like to contribute a talk, please speak with or e-mail the organizers.  We do ask that you agree to share your presentation under an MIT open source license if you wish to present.
 
 If you'd like to post an event or share a resource on our site, submit a pull request through GitHub.  The web site uses GitHub Pages powered by Jekyll.  
-Everything is setup so all you have to do it post an image and a markdown file. Look in the docs/_posts directory for examples to work from.
+Everything is setup so all you have to do is post an image and a markdown file. Look in the docs/_posts directory for examples to work from.
