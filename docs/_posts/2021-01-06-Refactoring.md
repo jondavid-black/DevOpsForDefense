@@ -14,7 +14,7 @@ We welcome a new year of DevOps for Defense and a guest speaker from our commuin
 Karen discusses when to refactor, especially when the cost of understanding your code is stealing from your resources to improve your code.  We also discuss the importance of testing while refactoring and some strategies we can apply as we improve our mission code and the associated automated tests.
 
 <div class="box" markdown="1">
-The [meetup presentation]() is posted as open source to our GitHub repository. 
+The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/DevOpsForDefense21Jan07.pdf) is posted as open source to our GitHub repository. 
 </div>
 
 <div class="box" markdown="1">

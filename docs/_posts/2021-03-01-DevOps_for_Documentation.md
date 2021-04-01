@@ -12,7 +12,7 @@ series-rank: 6
 For February we're trying something a little different.  Rather than doing a live session, we're doing something a bit more cinematic (hopefully).  I've spent some time experimenting with strategies on how to better manage our documentation and release documents using automated pipelines.  When we realize a large number of our contract deliverables are actually documents and we recognize the huge amount of resources that go into document creation, maintenance, and delivery...it begs a more rigorous approach.  In this presention I share an approach intended to be as approachable as possible while applying core DevOps principles.  I hope you find this useful and are able to experiment with it yourself or apply it to your work.  I also hope you enjoy the demo and discover something delicious!  
 
 <div class="box" markdown="1">
-The [meetup presentation]() is posted as open source to our GitHub repository. 
+The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/2021-02%20DO4D%20-%20DevOps%20for%20Documentation.pdf) is posted as open source to our GitHub repository. 
 </div>
 
 <div class="box" markdown="1">
