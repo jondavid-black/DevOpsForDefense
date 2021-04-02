@@ -1,7 +1,7 @@
 # DevOpsForDefense
 Repository for the Huntsville/Madison DevOps for Defense Meetup.  This is a open community to discuss DevOps in our work.
 
-Website:  https://www.devopsfordefense.org
+Website:  https://devopsfordefense.org
 
 Join us:  https://www.meetup.com/DevOps-for-Defense
 
