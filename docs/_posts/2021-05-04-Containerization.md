@@ -40,4 +40,4 @@ This month we'll discuss containers and go through a quick demonstration.  It's 
 
 
 #### Attribution
-Image by Edwin Stoop taken from redmondmag.com
+Image taken from redmondmag.com
