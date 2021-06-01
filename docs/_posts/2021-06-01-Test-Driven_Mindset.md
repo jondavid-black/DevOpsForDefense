@@ -9,9 +9,9 @@ series-rank: 6
 ---
 
 ## Test-Driven Development
-As the defense industry transitions from the traditional Waterfall lifecycle to a modern Agile / DevSecOps lifecycle, the mindset around testing is becoming an obstacle.  This month we'll discuss how we can utilize Test-Driven Development to overcome this obstacle and actually improve the quality of our systems.  This is not easy.  Many of our systems have been built and fielded using the traditional approach.  I've heard accusations that test and implementation are not sufficiently independent. I've even seen people decide to quit their job rather than adopt some of these newer test practices.  The objective of this month's meetup is to share some background, some examples, and ways to think about "bringing test left in the lifecycle".
+As the defense industry transitions from the traditional Waterfall lifecycle to a modern Agile / DevSecOps lifecycle, the mindset around testing can become an obstacle.  This month we'll discuss how we can utilize Test-Driven Development to overcome this obstacle and actually improve the first-time-quality of our systems.  This is not easy.  Many of our systems have been built and fielded using the traditional approach.  I've heard accusations that test and implementation are not sufficiently independent. I've seen test organizations incentivized to ensure failures occur rather than prevent failures from occuring.  I've even seen people decide to quit their job rather than adopt some of these newer test practices.  The objective of this month's meetup is to share some background, some examples, and some new ways to think about "bringing test left in the lifecycle".
 
-## Zoom Info for Those Who Wish to Participate Virtually
+## Zoom Info for Virtual Participants
     DevOps for Defense is inviting you to a scheduled Zoom meeting.
 
     Topic: DevOps for Defense - June 2021
@@ -39,9 +39,11 @@ As the defense industry transitions from the traditional Waterfall lifecycle to 
 
 
 
-# Read Ahead
+## Read Ahead
+This month I thought I'd provide read-ahead material for anyone who's interested in a preview.
+
 <div class="box" markdown="1">
-The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/2021-05%20DO4D%20-%20Containers.pdf) is posted as open source to our GitHub repository. 
+The [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/2021-06%20DO4D%20-%20Test-Driven%20Mindset.pdf) is posted as open source to our GitHub repository. 
 </div>
 
 <div class="box" markdown="1">
