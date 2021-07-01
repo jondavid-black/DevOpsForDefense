@@ -4,7 +4,7 @@ title:  "Cross-Functional Teams"
 date:   2021-07-01
 excerpt: "Great teams don't just happen!"
 image: "/images/Dogs-and-Cats-HR-resized.jpg"
-permalink: "2021/June"
+permalink: "2021/July"
 series-rank: 6
 ---
 
