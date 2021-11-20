@@ -12,7 +12,7 @@ Everyone knows [Microsoft](https://microsoft.com) is one of the largest and most
 [Microsoft Azure](https://azure.microsoft.com/en-us/) is an industry leading cloud provider
 with a broad range of capability available for commercial, government (IL4), and secure government (IL6) use.  This month Microsoft's Linh Nguyen will fly in
 to share his knowledge and experience working with many teams to improve how they create and deliver value in our world.  I'm particularly
-excited because Linh was part of teams you've heard of before including "Kessel Run" and "ATO in a Day".  As we strive to learn and improve
+excited because Linh was part of teams you've heard of before including "Kessel Run" and "ATO in a Day".  As we strive to learn and improve,
 the technologies and lessons we can learn from people like Linh can help us on our own paths to achieving amazing outcomes.  I'd like to
 send a huge thanks to Microsoft and Linh for agreeing to support and speak with us at our 4 year anniversary celebration.
 
@@ -23,7 +23,7 @@ This month I'm excited to have QTEC sponsor a Book Club for [Sooner Safey Happie
 have some books to hand out, but I'd also encourage anyone to go buy your own copy.  This is a really great book that describes a series of anti-patterns we
 often face in adopting DevOps practices and the patterns your teams can use to overcome pitfalls.  [Jonathan Smart](https://youtu.be/cwbiSCgiZNA) is also a great 
 and entertaining speaker, so check out some of his talks online if you get a chance.  I owe another huge thanks to QTEC (Carol, Rick, Steve, and Co.) for reaching
-out to help our community continue to learn and grow by sponsoring this book club.  Go check out their [web site](https://www.qtecinc.com/), and if your looking for something new you may want to talk with them about potential career opportunities.
+out to help our community continue to learn and grow by sponsoring this book club.  Go check out their [web site](https://www.qtecinc.com/), and if you're looking for something new you may want to talk with them about potential career opportunities.
 
 ## DevOps for Defense 4 Year Anniversary
 December marks the 4 year anniversary of our DevOps for Meetup.  It's been so much fun to organize.  It's also been massively rewarding to have the opportunity to meet,
@@ -33,7 +33,7 @@ final overwhelming thanks goes out to all of you for making this possible.  With
 to openly share and learn with others and maintain a safe collaborative space...our little meetup would have withered away long ago.  Now I'm excited to see how we can continue to share, learn, and improve together as we go into our 5th year!  Thank you!
 
 <div class="box" markdown="1">
-Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/MS%20Azure%20Flyer%20Dec%202021.pdf) around your office.  For best printer results use for full page, landscape, legal size paper.
+Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/MS%20Azure%20Flyer%20Dec%202021.pdf) around your office.  For best printer results setup your printer for full page, landscape, legal size paper.
 </div>
 
 #### Attribution
