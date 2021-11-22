@@ -36,6 +36,38 @@ to openly share and learn with others and maintain a safe collaborative space...
 Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/MS%20Azure%20Flyer%20Dec%202021.pdf) around your office.  For best printer results setup your printer for full page, landscape, legal size paper.
 </div>
 
+## Join us on Zoom
+If you are remote or can't make it to the in person meetup this month, please join us via Zoom.  The Zoom invitation info is below.
+
+```
+DevOps for Defense is inviting you to a scheduled Zoom meeting.
+
+Topic: December 2020 DevOps for Defense - MS Azure
+Time: Dec 2, 2021 06:00 PM Central Time (US and Canada)
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82097829221?pwd=N3RiVElIc1JuMjVKK1FQNTJ6Zy9pQT09
+
+Meeting ID: 820 9782 9221
+Passcode: 369619
+One tap mobile
++13126266799,,82097829221#,,,,*369619# US (Chicago)
++19292056099,,82097829221#,,,,*369619# US (New York)
+
+Dial by your location
+        +1 312 626 6799 US (Chicago)
+        +1 929 205 6099 US (New York)
+        +1 301 715 8592 US (Washington DC)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+Meeting ID: 820 9782 9221
+Passcode: 369619
+Find your local number: https://us02web.zoom.us/u/kc7Kf40mcI
+
+
+```
+
 #### Attribution
 
 Image created by JD Black
