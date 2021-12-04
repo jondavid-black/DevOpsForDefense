@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Azure at December Meetup"
-date:   2021-11-20
+date:   2021-12-04
 excerpt: "Microsoft Azure is flying in and QTEC is hosting a book club to celebrate our 4 yr anniversary."
 image: "/images/AzureFlyer.png"
 permalink: "2021/Dec"
@@ -33,11 +33,7 @@ final overwhelming thanks goes out to all of you for making this possible.  With
 to openly share and learn with others and maintain a safe collaborative space...our little meetup would have withered away long ago.  Now I'm excited to see how we can continue to share, learn, and improve together as we go into our 5th year!  Thank you!
 
 <div class="box" markdown="1">
-Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/MS%20Azure%20Flyer%20Dec%202021.pdf) around your office.  For best printer results setup your printer for full page, landscape, legal size paper.
-</div>
-
-<div class="box" markdown="1">
-Linh's [meetup presentation]() is posted as open source to our GitHub repository.  Thanks to Linh and Microsoft for allowing us to post their material for our community.
+Linh's [meetup presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/2021-12%20DO4D%20-%20Microsoft%20Azure.pdf) is posted as open source to our GitHub repository.  Thanks to Linh and Microsoft for allowing us to post their material for our community.
 
 And here's a copy of the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2021/MS%20Azure%20Flyer%20Dec%202021.pdf).  For best printer results setup your printer for full page, landscape, legal size paper.
 
