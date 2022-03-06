@@ -14,3 +14,6 @@ If you'd like to contribute a talk, please speak with or e-mail the organizers. 
 
 If you'd like to post an event or share a resource on our site, submit a pull request through GitHub.  The web site uses GitHub Pages powered by Jekyll.  
 Everything is setup so all you have to do is post an image and a markdown file. Look in the docs/_posts directory for examples to work from.
+
+## Thanks to our community
+Thank you for 4 years of successful meetups!
