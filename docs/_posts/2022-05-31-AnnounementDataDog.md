@@ -15,7 +15,7 @@ modern systems is extremely complex, but critical to operational success.  The D
 team will give us a demo of how this can be done with modern tooling.
 
 <div class="box" markdown="1">
-Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2019/Atlassian%20Flyer%20Sept%202019%20v2.pdf) around your office.
+Please help us get the word out by printing and posting the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2022/DataDog%20Flyer%20June%202022.pdf) around your office.
 </div>
 
 #### Attribution
