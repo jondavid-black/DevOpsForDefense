@@ -3,7 +3,7 @@ layout: post
 title:  "Data Dog - Modern monitoring & security"
 date:   2022-05-31
 excerpt: "See inside any stack, any app, at any scale, anywhere."
-image: "/images/dd_logo_h_white.png"
+image: "/images/dd_logo_h_rgb.png"
 category: announcements
 ---
 
