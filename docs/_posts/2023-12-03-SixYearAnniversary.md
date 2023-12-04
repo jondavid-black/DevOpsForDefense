@@ -11,6 +11,10 @@ category: announcement
 This month we'll be celebrating our 6 year anniversary of DevOps for Defense.  We'll be joined by some
 amazing guests, Gene Kim and Jason Cox.  Gene is the author of the Phoenix Project, the Unicorn Project, DevOps Handbook, and Accelerate.  Jason is the Director of Platforms and Global SRE at Walt Disney.  We'll take a look at where we all started...and why...and reflect on how things have evolved over the past 6 years in our industry and community.  And if all goes well, we may even have a wonderful cake to share with everyone.
 
+And after the event we'll enjoy the Rock and Roll power house that is [DadBod](https://www.facebook.com/DadbodHuntsville/)!
+
+It should be a great time, and we hope you can join us.
+
 <div class="box" markdown="1">
 Here's the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2023/Gene%20and%20Jason%20Flyer%20Dec%202023.pdf).
 
