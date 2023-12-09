@@ -4,16 +4,18 @@ title:  "6 Year Anniversary!"
 date:   2023-12-03
 excerpt: "With special guests Gene Kim and Jason Cox."
 image: "/images/fancy_6.png"
-category: announcement
+category: presentation
 ---
 
 ## Celebrating 6 Years of DevOps for Defense
-This month we'll be celebrating our 6 year anniversary of DevOps for Defense.  We'll be joined by some
-amazing guests, Gene Kim and Jason Cox.  Gene is the author of the Phoenix Project, the Unicorn Project, DevOps Handbook, and Accelerate.  Jason is the Director of Platforms and Global SRE at Walt Disney.  We'll take a look at where we all started...and why...and reflect on how things have evolved over the past 6 years in our industry and community.  And if all goes well, we may even have a wonderful cake to share with everyone.
+This month we celebrated our 6 year anniversary of DevOps for Defense.  We were joined by some
+amazing guests, Gene Kim and Jason Cox.  Gene is the author of the Phoenix Project, the Unicorn Project, DevOps Handbook, and Accelerate.  Jason is the Director of Platforms and Global SRE at Walt Disney.  We took a look at where the meetup started...and why...and reflected on how things have evolved over the past 6 years in our industry and community.  We even enjoyed a wonderful cake with everyone.
 
-And after the event we'll enjoy the Rock and Roll power house that is [DadBod](https://www.facebook.com/DadbodHuntsville/)!
+We were also joined by our first ever guest speaker, Lou Manglass, the Director of Information Security at [Stack Overflow](https://stackoverflow.com/).  And we had an surprise guest, Mikhail Kozorovitskiy, organizer of [DevOps Days Birmingham](https://devopsdays.org/events/2024-birmingham-al/welcome/).  Mikhail shared a very generous discount code with us for the April 17-28 event that I'll pass along in future meetups if you missed it.  I hope everyone will consider attending this event.  It's a great opportunity to learn and network with other DevOps professionals in the region.
 
-It should be a great time, and we hope you can join us.
+And after the event we enjoyed the Rock and Roll power house that is [DadBod](https://www.facebook.com/DadbodHuntsville/)!
+
+It was a great time, and I'd like to thank everyone from the community who came out and made it such a special evening.
 
 <div class="box" markdown="1">
 Here's the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2023/Gene%20and%20Jason%20Flyer%20Dec%202023.pdf).
@@ -24,7 +26,7 @@ Feel free to print on legal size paper and put up on your office bulletin board.
 <div class="box" markdown="1">
 Here's the [presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2023/2023-12%20DO4D%20-%206%20Year%20Anniversary.pdf).
 
-Inside this presentation you'll find links to the IT Revolution video library with similar talks and charts to what we saw.
+Inside this presentation you'll find links to the IT Revolution video library with similar talks and charts.  Please share these important resources with your teams.
 
 Huge thanks to Gene and Jason for coming out and spending the evening with us.
 </div>
