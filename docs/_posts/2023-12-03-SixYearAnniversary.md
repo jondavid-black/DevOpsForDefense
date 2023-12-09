@@ -21,6 +21,14 @@ Here's the [event flyer](https://github.com/jondavid-black/DevOpsForDefense/blob
 Feel free to print on legal size paper and put up on your office bulletin board.
 </div>
 
+<div class="box" markdown="1">
+Here's the [presentation](https://github.com/jondavid-black/DevOpsForDefense/blob/master/Meetup/2023/2023-12%20DO4D%20-%206%20Year%20Anniversary.pdf).
+
+Inside this presentation you'll find links to the IT Revolution video library with similar talks and charts to what we saw.
+
+Huge thanks to Gene and Jason for coming out and spending the evening with us.
+</div>
+
 
 #### Attribution
 
